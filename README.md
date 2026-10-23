@@ -1,5 +1,7 @@
 # The LinkedIn agent skill
 
+> Upstream project by Jake Schincariol: eleven Claude skills. This repository also contains an independent Codex adaptation under [`codex/`](codex/README.md). The Codex edition keeps all eleven `li-*` workflow names as Agent Skills. It does not register Claude-style slash commands.
+
 > This is the upstream Claude skill pack by Jake Schincariol. Codex users can
 > use the adapted `linkedin-post` skill in [`codex/linkedin-post`](codex/linkedin-post/).
 > That adaptation covers post drafting and the 21 hook formulas only; it is not
