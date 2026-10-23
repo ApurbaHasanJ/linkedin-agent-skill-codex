@@ -1,5 +1,10 @@
 # The LinkedIn agent skill
 
+> This is the upstream Claude skill pack by Jake Schincariol. Codex users can
+> use the adapted `linkedin-post` skill in [`codex/linkedin-post`](codex/linkedin-post/).
+> That adaptation covers post drafting and the 21 hook formulas only; it is not
+> the original set of eleven Claude skills.
+
 Eleven Claude skills that run a LinkedIn account. Free, MIT, no signup, no API
 key, nothing to connect.
 

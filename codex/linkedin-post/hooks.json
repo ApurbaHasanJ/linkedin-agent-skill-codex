@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "hooks": [
+    {"id": 1, "name": "Contrarian Take", "template": "Everyone says {common advice}. After {specific experience}, I think that is wrong.", "best_for": "A defensible point of view.", "trap": "Contradicting advice nobody actually believes."},
+    {"id": 2, "name": "Number Reveal", "template": "I {did thing} for {N} {days/weeks}. Here is what actually happened.", "best_for": "Experiments and measurable results.", "trap": "Inventing or burying the number."},
+    {"id": 3, "name": "Mistake Confession", "template": "{Specific cost} is what {one mistake} cost me.", "best_for": "A real lesson learned the hard way.", "trap": "A fake-humble non-mistake."},
+    {"id": 4, "name": "Before / After", "template": "{Time ago} I was {low state}. Today I {high state}. The difference was {one thing}.", "best_for": "A credible change over time.", "trap": "Listing several causes instead of one lever."},
+    {"id": 5, "name": "The List Promise", "template": "{N} things I wish someone had told me before {milestone}.", "best_for": "A concise, useful list.", "trap": "Promising more items than can be delivered well."},
+    {"id": 6, "name": "Insider Secret", "template": "After {N} years {doing thing}, here is the part nobody puts in the {job posting/course/pitch}.", "best_for": "Real experience with a less-discussed detail.", "trap": "Calling common knowledge a secret."},
+    {"id": 7, "name": "The Callout", "template": "If you are still {outdated practice}, consider {specific change}.", "best_for": "One practical recommendation.", "trap": "Talking down to the audience."},
+    {"id": 8, "name": "Question Trap", "template": "{Specific scenario with a real cost}. What would you do?", "best_for": "A genuine decision with reasonable tradeoffs.", "trap": "Asking a question with an obvious answer."},
+    {"id": 9, "name": "Story Cold Open", "template": "\"{Real line of dialogue}\"\n\n{Who said it, when, and why it mattered}.", "best_for": "A specific, true story.", "trap": "Inventing dialogue."},
+    {"id": 10, "name": "The Receipt", "template": "{Verifiable number or artifact}. {One sentence of context}.", "best_for": "Evidence the user can substantiate.", "trap": "A number without context or proof."},
+    {"id": 11, "name": "Myth Bust", "template": "{Popular explanation} is not why {bad outcome} is happening.", "best_for": "Replacing a mistaken explanation with a useful one.", "trap": "Never giving the better explanation."},
+    {"id": 12, "name": "The Comparison", "template": "{Option A} vs {Option B}. {Surprising but fair verdict}.", "best_for": "A process or tool comparison.", "trap": "Comparing unlike options unfairly."},
+    {"id": 13, "name": "Permission Slip", "template": "You are allowed to {specific thing the reader feels guilty about}.", "best_for": "A concrete workplace boundary.", "trap": "Generic self-care advice."},
+    {"id": 14, "name": "Pattern Interrupt", "template": "{Short, true line}.", "best_for": "A striking fact or moment that the post can substantiate.", "trap": "Using drama unsupported by the story."},
+    {"id": 15, "name": "The Warning", "template": "{Common practice} may be costing you {specific thing}.", "best_for": "A real risk paired with a useful fix.", "trap": "Creating fear without offering a practical next step."},
+    {"id": 16, "name": "Good vs Great", "template": "Good {role} {action X}. Great {role} {meaningfully different action Y}.", "best_for": "A useful distinction in practice.", "trap": "Reducing the difference to “work harder.”"},
+    {"id": 17, "name": "Time Anchor", "template": "{Task} used to take me {long time}. It now takes {short time}.", "best_for": "A credible process improvement.", "trap": "An unbelievable or unsupported ratio."},
+    {"id": 18, "name": "The Unpopular Rule", "template": "I do not {widely accepted practice}. Here is why.", "best_for": "A real, consistently held position.", "trap": "Claiming a rule the author regularly breaks."},
+    {"id": 19, "name": "Curiosity Gap", "template": "The {superlative} {thing} I ever {verb} {unexpected detail}.", "best_for": "A story with an early payoff.", "trap": "Withholding the answer as clickbait."},
+    {"id": 20, "name": "The Walk-Away", "template": "I {quit/cancelled/deleted} {valuable thing}. {Real result and cost}.", "best_for": "A real choice with tradeoffs.", "trap": "Ignoring what the decision cost."},
+    {"id": 21, "name": "The Direct Value", "template": "Here is the exact {artifact} I used to {specific outcome}.", "best_for": "Sharing a useful resource or process.", "trap": "Promising an artifact or result the post does not include."}
+  ]
+}
